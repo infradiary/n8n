@@ -19,5 +19,5 @@ This repository contains scripts, configurations, and workflows to deploy and ma
 ## Setup & Deployment
 1. Clone the repository:
 ```bash
-git clone https://github.com/<username>/<repo>.git
+git clone https://github.com/infradiary/n8n.git 
 cd <repo>
